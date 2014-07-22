@@ -1,0 +1,8 @@
+name: Nutpam Madal
+pygments: false
+
+permalink : /:title.html
+
+encoding  : utf-8
+
+markdown  : kramdown

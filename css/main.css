@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidsanstamil.css);
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+body {
+    font-family: 'Droid Sans Tamil', 'Droid Sans', sans-serif;
+}
+
+.posts {
+    margin-bottom: 20px;
+    font-size: 14px;
+    line-height: 2em;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #60c760;
+}
+
+.notice {
+    font-size: 11px;
+    color: #aeaeae;
+}
+
+a {
+    color: #54ba57;
+}
+
+a:hover {
+    color: #20892a;
+}
+
+
+.glyphicon.glyphicon-star {
+    color: #c9a92a;
+}
+
+.letter li {
+    list-style: square;
+}
+
+.archive li {
+    list-style: none;
+}
