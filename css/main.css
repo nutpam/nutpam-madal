@@ -25,6 +25,10 @@ body {
     color: #aeaeae;
 }
 
+.gray {
+    background: #c9c0c0;   
+}
+
 a {
     color: #54ba57;
 }
