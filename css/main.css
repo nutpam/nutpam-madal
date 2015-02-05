@@ -26,7 +26,9 @@ body {
 }
 
 .gray {
-    background: #c9c0c0;   
+    background: #c9c0c0;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 a {
