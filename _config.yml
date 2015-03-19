@@ -2,7 +2,8 @@ name: Nutpam Madal
 description: "A Tamil newsletter on science, technology, engineering and maths by Tharique Azeez. Dispatched every Tuesday. "
 highligher: null
 
-permalink : /:title.html
+
+permalink: issues/:title/
 
 encoding  : utf-8
 
