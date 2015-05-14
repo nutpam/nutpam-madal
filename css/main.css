@@ -1,46 +1,16 @@
 @import url(http://fonts.googleapis.com/earlyaccess/droidsanstamil.css);
 @import url(http://fonts.googleapis.com/css?family=Droid+Sans);
-@impott url(http://openfontlibrary.org/face/neythal);
 
 
 body {
-    font-family: 'Neythal', sans-serif;
-    font-size: 18px;
-    font-weight: bold;
+    font-family: 'Droid Sans Tamil', 'Droid Sans', sans-serif;
 }
 
 .posts {
     margin-bottom: 20px;
-    font-size: 20px;
-    line-height: 1.7em;
+    font-size: 14px;
+    line-height: 2em;
 }
-
-strong {
-    color: #fff;
-    padding: 5px 10px;
-    background: #1d7126;
-}
-
-.yellow {
-    color: #2a2727;
-    padding: 5px 10px;
-    background: #c1c719;
-}
-
-h2 {
-    font-size: 42px;
-    font-weight: bold;
-}
-
-h3 {
-    font-size: 32px;
-    font-weight: bold;
-}
-
-h5 {
-    font-size: 20px;
-}
-    
 
 .header {
     margin-bottom: 20px;
@@ -51,7 +21,7 @@ h5 {
 }
 
 .notice {
-    font-size: 18px;
+    font-size: 11px;
     color: #aeaeae;
 }
 
@@ -70,8 +40,13 @@ a:hover {
 }
 
 
+<<<<<<< HEAD
 .glyphicon.glyphicon-heart {
     color: #f54740;
+=======
+.glyphicon.glyphicon-star {
+    color: #c9a92a;
+>>>>>>> parent of d4d1f42... neythal font styled
 }
 
 .letter li {
@@ -80,9 +55,4 @@ a:hover {
 
 .archive li {
     list-style: none;
-}
-
-.ptb {
-    padding-bottom: 30px;
-    padding-top: 30px;
 }
