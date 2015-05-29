@@ -144,3 +144,83 @@ a:hover {
 .archive li {
     list-style: none;
 }
+
+
+/* Subscribe */
+
+#subscr-form-4096 {
+  *zoom: 1;
+  max-width: 500px;
+  float: none;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+#subscr-form-4096:before,
+#subscr-form-4096:after {
+  content: '';
+  display: table;
+}
+#subscr-form-4096:after {
+  clear: both;
+}
+.lead_email {
+  *zoom: 1;
+  float: left;
+  clear: none;
+  text-align: inherit;
+  width: 283px;
+  height: 50px;
+  padding: 16px 16px 13px 19px;
+  border: 2px solid #b4b4b4;
+  border-radius: 4px;
+  margin-left: 0%;
+  margin-right: 0%;
+  color: #	;
+  font-size: 16px;
+  font-weight: 300;
+  outline:none;
+  box-sizing: border-box;
+}
+.lead_email:before,
+.lead_email:after {
+  content: '';
+  display: table;
+}
+.lead_email:after {
+  clear: both;
+}
+input.button-submit
+{
+  width: 174px;
+  height: 50px;
+  padding: 16px;
+  border: 1px solid transparent;
+  background-image: linear-gradient(to top, #46c440 0%, #46c440 100%);
+  border-radius: 4px;
+  color: white;
+  font-size: 16px;
+  outline:none;
+  position: relative;
+  box-sizing: border-box;
+}
+
+input.button-submit:hover
+{
+  background-image: -moz-linear-gradient( 90deg, rgb(103, 237, 155) 0%, rgb(103, 237, 155) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(103, 237, 155) 0%, rgb(103, 237, 155) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(103, 237, 155) 0%, rgb(103, 237, 155) 100%);
+  cursor: pointer;
+  outline:none;
+}
+
+input.button-submit:active
+{
+  background-image: -moz-linear-gradient( 90deg, rgb(194,79,78) 0%, rgb(194,79,78) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(194,79,78) 0%, rgb(194,79,78) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(194,79,78) 0%, rgb(194,79,78) 100%);
+  cursor: pointer;
+  outline:none;
+}
